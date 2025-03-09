@@ -4,7 +4,7 @@ My Submission for the ArangoDB-CuGraph Hackathon
 
 The main submission file is: [Top_Physics_Researchers.ipynb](Top_Physics_Researchers.ipynb)
 
-[MakeNetwork.ipynb] contains some dataset setup work.
+[MakeNetwork.ipynb](MakeNetwork.ipynb) contains some dataset setup work.
 
 ## Inspiration
 I am inspired by the work of my [research Group](https://networkinequality.com/).  The study of complexity science and sociology requires a lot of network science, but I found very few scientists and sociologists using graph databases, which puzzled me.
